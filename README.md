@@ -91,7 +91,7 @@ The project includes:
 
 ## Repository Contents
 
-- `Seasonal_Agriculture_Performance_Analysis.ipynb` – Complete project notebook
+- `Seasonal_Agriculture_Performance_Analysis_Final.ipynb` – Complete project notebook
 - `seasonal_agriculture_performance_dataset.csv` – Dataset used for analysis
 - `README.md` – Project documentation
 
